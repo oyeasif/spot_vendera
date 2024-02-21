@@ -1,0 +1,10 @@
+<svg width="28" height="28" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="tabler:edit">
+<rect x="1" y="1" width="26" height="26" rx="13" fill="#307D7E"/>
+<rect x="1" y="1" width="26" height="26" rx="13" stroke="white" stroke-width="2"/>
+<g id="Group">
+<path id="Vector" d="M8 20.1213H11L19.5 11.6213C19.8978 11.2235 20.1213 10.6839 20.1213 10.1213C20.1213 9.55871 19.8978 9.01914 19.5 8.62132C19.1022 8.2235 18.5626 8 18 8C17.4374 8 16.8978 8.2235 16.5 8.62132L8 17.1213V20.1213Z" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M15 10.1211L18 13.1211" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</svg>

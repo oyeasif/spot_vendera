@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "595898530795",
+    "firebase_url": "https://checkingemail-8a27e-default-rtdb.firebaseio.com",
+    "project_id": "checkingemail-8a27e",
+    "storage_bucket": "checkingemail-8a27e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595898530795:android:5698c73c3b0f5b6e1337ae",
+        "android_client_info": {
+          "package_name": "com.example.checkingemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdosh4C5cl-ugMFoS96K091S5GDmvimDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595898530795:android:d1ae703d234b22f71337ae",
+        "android_client_info": {
+          "package_name": "com.example.imagetextscanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdosh4C5cl-ugMFoS96K091S5GDmvimDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595898530795:android:f72a0f3264016c521337ae",
+        "android_client_info": {
+          "package_name": "com.example.spot_vendor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdosh4C5cl-ugMFoS96K091S5GDmvimDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
